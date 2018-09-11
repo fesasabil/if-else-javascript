@@ -8,7 +8,7 @@ if (nama==='' && peran===''){
 }
 
 if (peran===''){
-    console.log('peran tidak boleh kosong');
+    console.log('Silahkan pilih peran anda untuk memulai game!');
 } 
 
 else if(nama && peran===''){
